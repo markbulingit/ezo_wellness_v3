@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9a132d2bf02a11cc8eeab4b12cbabe1d",
+  "assets/AssetManifest.json": "b0fd74b1fe79314d023509cc593352ae",
 "assets/assets/audio/break.wav": "ad30dde3023da6345de74cffa70390fb",
 "assets/assets/audio/countdown.wav": "a750d311ab670831ea50f4e145a46ce7",
 "assets/FontManifest.json": "f361723d1c2acc23d2dab76002257da9",
@@ -37,7 +37,7 @@ const RESOURCES = {
 "assets/fonts/poppins/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/fonts/poppins/Poppins-SemiBold.ttf": "6f1520d107205975713ba09df778f93f",
 "assets/fonts/poppins/Poppins-SemiBoldItalic.ttf": "9841f3d906521f7479a5ba70612aa8c8",
-"assets/NOTICES": "60939a9beb797b257a4625c791ee466b",
+"assets/NOTICES": "af2676c974e568fe6df881cbb479ea79",
 "assets/packages/auth_buttons/images/default/apple.svg": "55dba81be7ba24dd88dbf9cc81de95e8",
 "assets/packages/auth_buttons/images/default/email.svg": "3082146f3f124a005b10db6fe3109fe7",
 "assets/packages/auth_buttons/images/default/facebook.svg": "042d64dc3864e72dee8ed5a25b514b11",
@@ -73,18 +73,14 @@ const RESOURCES = {
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3e9232eaa989e2dd1c422abf44a40c2f",
-"/": "3e9232eaa989e2dd1c422abf44a40c2f",
-"main.dart.js": "e0b72b1005ee0de43bcf97edf7b19067",
+"index.html": "2cdd738082f088c8a0898e6ffa5708e6",
+"/": "2cdd738082f088c8a0898e6ffa5708e6",
+"main.dart.js": "9fc0710bf678ed961c5f8f11afa4eea9",
 "manifest.json": "a367b13345d1ff6b409100b1620d6517",
 "version.json": "993667d034108634223d3d3022be67f2"
 };
