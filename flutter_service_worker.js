@@ -37,7 +37,7 @@ const RESOURCES = {
 "assets/fonts/poppins/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/fonts/poppins/Poppins-SemiBold.ttf": "6f1520d107205975713ba09df778f93f",
 "assets/fonts/poppins/Poppins-SemiBoldItalic.ttf": "9841f3d906521f7479a5ba70612aa8c8",
-"assets/NOTICES": "e0c30134c8c2922b5fb14df217139aa1",
+"assets/NOTICES": "17664fd7eba7edffed21d8003e745f71",
 "assets/packages/auth_buttons/images/default/apple.svg": "55dba81be7ba24dd88dbf9cc81de95e8",
 "assets/packages/auth_buttons/images/default/email.svg": "3082146f3f124a005b10db6fe3109fe7",
 "assets/packages/auth_buttons/images/default/facebook.svg": "042d64dc3864e72dee8ed5a25b514b11",
@@ -82,9 +82,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6838e61cce4d2b2ea77ddbf9fe1e7ee2",
-"/": "6838e61cce4d2b2ea77ddbf9fe1e7ee2",
-"main.dart.js": "8b27ee09186d964205a3a3c32cbe0543",
+"index.html": "2cf3b4136cbb7724f8c88e2e86f4ff8a",
+"/": "2cf3b4136cbb7724f8c88e2e86f4ff8a",
+"main.dart.js": "a6ae7c711f55a3a09494ac6b4bb1ec6f",
 "manifest.json": "a367b13345d1ff6b409100b1620d6517",
 "version.json": "993667d034108634223d3d3022be67f2"
 };
